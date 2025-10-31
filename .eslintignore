@@ -1,6 +1,0 @@
-node_modules
-dist
-build
-coverage
-/*.js
-vite.config.*.timestamp-*.mjs
